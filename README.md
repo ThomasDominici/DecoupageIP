@@ -8,7 +8,7 @@ Le plus gros sous-réseaux a besoin de 50 machines. Nous voulons donc 4 sous-ré
 (2^6)-2 = 64 - 2 = **62** adresses disponibles pour chaque pôle informatique. Nous avons enlevé les 2 adresses réseau et de broadcast pour chaque sous-réseau.  
 
 Le CIDR ici est 32 - 6 = **26**  
-6 étant la puissance que l'on a utilisé dans la table de 2.
+=> 6 étant la puissance que l'on a utilisé dans la table de 2.
 
 Voici la répartition des adresses par pôle informatique :   
 
